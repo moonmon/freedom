@@ -1,0 +1,5 @@
+{"event_type": "EquityOverweight", "role_list": [{"role": "EndDate"}, {"role": "AveragePrice"}, {"role": "TradedShares"}, {"role": "LaterHoldingShares"}, {"role": "StartDate"}, {"role": "EquityHolder"}]}
+{"event_type": "EquityUnderweight", "role_list": [{"role": "EndDate"}, {"role": "AveragePrice"}, {"role": "TradedShares"}, {"role": "LaterHoldingShares"}, {"role": "StartDate"}, {"role": "EquityHolder"}]}
+{"event_type": "EquityFreeze", "role_list": [{"role": "FrozeShares"}, {"role": "LegalInstitution"}, {"role": "EndDate"}, {"role": "TotalHoldingRatio"}, {"role": "UnfrozeDate"}, {"role": "StartDate"}, {"role": "TotalHoldingShares"}, {"role": "EquityHolder"}]}
+{"event_type": "EquityPledge", "role_list": [{"role": "Pledger"}, {"role": "PledgedShares"}, {"role": "EndDate"}, {"role": "TotalHoldingRatio"}, {"role": "TotalPledgedShares"}, {"role": "ReleasedDate"}, {"role": "StartDate"}, {"role": "TotalHoldingShares"}, {"role": "Pledgee"}]}
+{"event_type": "EquityRepurchase", "role_list": [{"role": "ClosingDate"}, {"role": "CompanyName"}, {"role": "HighestTradingPrice"}, {"role": "RepurchasedShares"}, {"role": "LowestTradingPrice"}, {"role": "RepurchaseAmount"}]}
